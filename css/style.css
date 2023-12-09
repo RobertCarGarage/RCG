@@ -343,6 +343,7 @@ color:#FFFFFF;
     min-height: 400px;
     text-align: right;
     overflow: hidden;
+    margin: auto;
 }
 
 .carousel .carousel-img::after {
