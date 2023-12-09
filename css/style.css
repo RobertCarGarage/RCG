@@ -316,7 +316,7 @@ color:#FFFFFF;
 /*******************************/
 .carousel {
     position: relative;
-    width: 100%;
+    width: 1000px;
     min-height: 400px;
     background: #ffffff;
     margin-bottom: 45px;
@@ -328,7 +328,7 @@ color:#FFFFFF;
 
 .carousel .carousel-item {
     position: relative;
-    width: 100%;
+    width: 1000px;
     min-height: 400px;
     display: flex;
     align-items: center;
@@ -338,7 +338,7 @@ color:#FFFFFF;
 
 .carousel .carousel-img {
     position: relative;
-    width: 100%;
+    width: 1000px;
     height: 100%;
     min-height: 400px;
     text-align: right;
@@ -358,7 +358,7 @@ color:#FFFFFF;
 }
 
 .carousel .carousel-img img {
-    width: 100%;
+    width: 1000px;
     height: 100%;
     object-fit: cover;
 }
