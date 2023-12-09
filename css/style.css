@@ -668,7 +668,8 @@ a:focus {
 
 @media (max-width: 575.98px) {
   .section-header h2 {
-    font-size: 35px;
+    font-size: 30px;
+    text-align: center;
   }
 }
 
@@ -2095,6 +2096,12 @@ a:focus {
     color: white !important;
 }
 
+.service-item img {
+  width: 80px;
+  height: 80px;
+}
+
+
 .web-view {
   display: block;
 }
@@ -2133,6 +2140,16 @@ a:focus {
     width: 30px;
     height: 30px;
     font-size: 15px;
+  }
+
+  .service .service-item {
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+  }
+  .service .service-item p {
+    width: 100%;
+    text-align: left;
   }
 
   .Appointment {
